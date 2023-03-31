@@ -1,6 +1,6 @@
 Name:		texlive-etl
 Version:	60998
-Release:	1
+Release:	2
 Summary:	Expandable token list operations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/etl
