@@ -3,7 +3,7 @@ Version:	60998
 Release:	2
 Summary:	Expandable token list operations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/etl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/etl
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/etl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/etl.doc.r%{version}.tar.xz
